@@ -59,7 +59,7 @@ A **free, open-source e-commerce marketplace** platform with built-in **Eppay cr
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/eppay/eppay-marketplace.git
+git clone https://github.com/nashaib/eppay-starter-kit-laravel.git
 cd eppay-marketplace
 ```
 
